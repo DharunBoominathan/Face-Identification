@@ -1,0 +1,8 @@
+https://pyimagesearch.com/2021/04/26/face-detection-tips-suggestions-and-best-practices/
+
+https://bleedai.com/5-easy-effective-face-detection-algorithms-in-python/
+
+https://datahacker.rs/017-face-detection-algorithms-comparison/
+
+
+https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
